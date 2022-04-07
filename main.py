@@ -4,7 +4,7 @@ from itertools import combinations
 import pandas as pd
 
 st.title('Cek Kesamaan Kata')
-st.text('by Nadhiar')
+st.subheader('by Nadhiar')
 
 col1, col2, col3 = st.columns(3)
 with col1:
